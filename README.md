@@ -21,6 +21,7 @@ Relationship is one to many. Logic is here: one owner may have several buildings
 </ul>
 
 <b>Here you can see my ER Diagram</b>
+<br>
 ![erdEstate](https://user-images.githubusercontent.com/78197235/115552750-74b65080-a2ce-11eb-96b1-e801305ad69a.png)
 
 
