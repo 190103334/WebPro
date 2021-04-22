@@ -1,10 +1,9 @@
 <b>Description</b>
 <br><br>
-<hr>
 I have worked with Laravel framework in this project. This website is about Estate Agency where owners of some properties can rent or sell their properties ONLINE. Website has beautiful layout and amazing functionalities. 
 <br>
 Relationship is one to many. Logic is here: one owner may have several buildings.  
-
+<hr>
 <b>I have used:</b>
 <ul>
 <li>HTML</li>
@@ -13,7 +12,7 @@ Relationship is one to many. Logic is here: one owner may have several buildings
 <li>Bootstrap</li>
 <li>PHP</li>
 </ul>
-
+<hr>
 <b>Functionalities</b>
 <ul>
 <li>Supports two languages: Russian and English.</li>
@@ -21,13 +20,12 @@ Relationship is one to many. Logic is here: one owner may have several buildings
 <li>File uploading -> for uploading documents of properties by zip file.</li>
 <li>When entering to the second page, language will be same as the main page.</li>
 </ul>
-
+<hr>
 <b>Here you can see my ER Diagram</b>
 <br>
 <br>
 ![erdEstate](https://user-images.githubusercontent.com/78197235/115552750-74b65080-a2ce-11eb-96b1-e801305ad69a.png)
-
-
+<hr>
 
 
 
