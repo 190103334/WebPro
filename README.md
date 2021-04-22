@@ -1,5 +1,5 @@
 <b>Description</b>
-<br>
+<br><br>
 I have worked with Laravel framework in this project. This website is about Estate Agency where owners of some properties can rent or sell their properties ONLINE. Website has beautiful layout and amazing functionalities. 
 <br>
 Relationship is one to many. Logic is here: one owner may have several buildings.  
